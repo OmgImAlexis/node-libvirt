@@ -59,9 +59,9 @@
   ],
   "dependencies": {
     "bindings": "^1.2.1",
-    "bluebird": "^3.1.1",
     "esm": "^3.0.84",
-    "nan": "^2.4.0"
+    "nan": "^2.4.0",
+    "util-promisifyall": "^1.0.4"
   },
   "devDependencies": {
     "chai": "^3.4.1",
